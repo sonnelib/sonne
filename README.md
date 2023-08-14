@@ -1,9 +1,9 @@
-![Logo](https://github.com/sonnelib/sonne/blob/main/logo.png)
+![Logo](https://raw.githubusercontent.com/sonnelib/sonne/main/logo.png)
 
 # Sonne
 **Sonne** is a Python module that provides a lot of possibilities to make your terminal look beautiful.
 
-![Features](https://github.com/sonnelib/sonne/blob/main/sonne.png)
+![Features](https://raw.githubusercontent.com/sonnelib/sonne/main/sonne.png)
 
 # Setup
 ```python
