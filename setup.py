@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="sonne",
-    version="0.1.3",
+    version="0.0.1",
     description="Sonne is a Python module that provides a lot of possibilities to make your terminal look beautiful.",
     long_description=LONG_DESCRIPTION,
     long_description_content_type="text/markdown",
