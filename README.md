@@ -81,7 +81,7 @@ Output:
 
 ## JSON
 
-**Sonne** will automatically highlight expressions in JSON texts, such as integers, floats,booleans, arrays, strings etc. With ``JSON`` function.
+**Sonne** will automatically highlight expressions in JSON texts, such as integers, floats, booleans, arrays, strings etc. With ``JSON`` function.
 
 Example usage:
 ```python
